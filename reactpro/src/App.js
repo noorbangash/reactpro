@@ -16,13 +16,18 @@ const DUMMY_EXPENSE = [
     id: "e3",
     title: "Car Insurance",
     amount: 294.67,
-    date: new Date(2022, 2, 28),
-  },
+    date: new Date(2022, 2, 98),
+
+
+  }, 
   {
     id: "e4",
     title: "New Desk (Wooden)",
     amount: 450,
     date: new Date(2022, 5, 12),
+
+
+    
   },
 ];
 const App = () => {
